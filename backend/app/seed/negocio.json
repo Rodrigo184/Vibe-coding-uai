@@ -1,0 +1,1253 @@
+{
+  "productos": [
+    {
+      "sku": "PLT-001",
+      "nombre": "Palta Hass",
+      "categoria": "frutas y verduras",
+      "unidad": "kg",
+      "precio": 3990,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "PLT-002",
+      "nombre": "Palta Fuerte",
+      "categoria": "frutas y verduras",
+      "unidad": "kg",
+      "precio": 3490,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "otoño-invierno"
+    },
+    {
+      "sku": "PAN-204",
+      "nombre": "Pan integral 500 g",
+      "categoria": "panadería",
+      "unidad": "un",
+      "precio": 2190,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "gluten"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "PAN-210",
+      "nombre": "Pan centeno 500 g",
+      "categoria": "panadería",
+      "unidad": "un",
+      "precio": 2390,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "gluten"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "YOG-301",
+      "nombre": "Yogur natural 1 L",
+      "categoria": "lácteos",
+      "unidad": "un",
+      "precio": 1890,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "lactosa"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "YOG-310",
+      "nombre": "Yogur griego 1 L",
+      "categoria": "lácteos",
+      "unidad": "un",
+      "precio": 2790,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "lactosa"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "LEC-120",
+      "nombre": "Leche entera 1 L",
+      "categoria": "lácteos",
+      "unidad": "un",
+      "precio": 1090,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "lactosa"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "HUE-030",
+      "nombre": "Huevos 12 un",
+      "categoria": "huevos",
+      "unidad": "un",
+      "precio": 3990,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "huevo"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "TOM-050",
+      "nombre": "Tomate",
+      "categoria": "frutas y verduras",
+      "unidad": "kg",
+      "precio": 1990,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "verano"
+    },
+    {
+      "sku": "LEC-205",
+      "nombre": "Lechuga",
+      "categoria": "frutas y verduras",
+      "unidad": "un",
+      "precio": 1290,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "MAN-410",
+      "nombre": "Manzana Fuji",
+      "categoria": "frutas y verduras",
+      "unidad": "kg",
+      "precio": 1890,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "otoño"
+    },
+    {
+      "sku": "PLA-420",
+      "nombre": "Plátano",
+      "categoria": "frutas y verduras",
+      "unidad": "kg",
+      "precio": 1290,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "ARR-600",
+      "nombre": "Arroz 1 kg",
+      "categoria": "despensa",
+      "unidad": "un",
+      "precio": 1590,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "FID-610",
+      "nombre": "Fideos 400 g",
+      "categoria": "despensa",
+      "unidad": "un",
+      "precio": 990,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "gluten"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "ACE-700",
+      "nombre": "Aceite de oliva 500 ml",
+      "categoria": "despensa",
+      "unidad": "un",
+      "precio": 6490,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "CAF-800",
+      "nombre": "Café en grano 250 g",
+      "categoria": "despensa",
+      "unidad": "un",
+      "precio": 5990,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "VIN-330",
+      "nombre": "Cabernet reserva 750 ml",
+      "categoria": "bebidas alcohólicas",
+      "unidad": "un",
+      "precio": 6990,
+      "contiene_alcohol": true,
+      "alergenos": [
+        "sulfitos"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "CER-340",
+      "nombre": "Cerveza lager 6 un",
+      "categoria": "bebidas alcohólicas",
+      "unidad": "un",
+      "precio": 5490,
+      "contiene_alcohol": true,
+      "alergenos": [
+        "gluten"
+      ],
+      "temporada": "verano"
+    },
+    {
+      "sku": "MNI-900",
+      "nombre": "Maní salado 200 g",
+      "categoria": "snacks",
+      "unidad": "un",
+      "precio": 1490,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "maní"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "ALM-910",
+      "nombre": "Almendras 200 g",
+      "categoria": "snacks",
+      "unidad": "un",
+      "precio": 3290,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "frutos secos"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "QUE-500",
+      "nombre": "Queso gauda 250 g",
+      "categoria": "fiambrería",
+      "unidad": "un",
+      "precio": 3490,
+      "contiene_alcohol": false,
+      "alergenos": [
+        "lactosa"
+      ],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "JAM-510",
+      "nombre": "Jamón de pavo 200 g",
+      "categoria": "fiambrería",
+      "unidad": "un",
+      "precio": 2990,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "AGU-100",
+      "nombre": "Agua 1,5 L",
+      "categoria": "bebidas",
+      "unidad": "un",
+      "precio": 890,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "todo el año"
+    },
+    {
+      "sku": "DET-950",
+      "nombre": "Detergente 3 L",
+      "categoria": "limpieza",
+      "unidad": "un",
+      "precio": 7990,
+      "contiene_alcohol": false,
+      "alergenos": [],
+      "temporada": "todo el año"
+    }
+  ],
+  "stock": {
+    "LC:PLT-001": 42,
+    "LC:PLT-002": 7,
+    "LC:PAN-204": 0,
+    "LC:PAN-210": 47,
+    "LC:YOG-301": 17,
+    "LC:YOG-310": 15,
+    "LC:LEC-120": 14,
+    "LC:HUE-030": 8,
+    "LC:TOM-050": 47,
+    "LC:LEC-205": 6,
+    "LC:MAN-410": 43,
+    "LC:PLA-420": 47,
+    "LC:ARR-600": 57,
+    "LC:FID-610": 34,
+    "LC:ACE-700": 5,
+    "LC:CAF-800": 37,
+    "LC:VIN-330": 18,
+    "LC:CER-340": 2,
+    "LC:MNI-900": 1,
+    "LC:ALM-910": 5,
+    "LC:QUE-500": 13,
+    "LC:JAM-510": 14,
+    "LC:AGU-100": 32,
+    "LC:DET-950": 38,
+    "PR:PLT-001": 1,
+    "PR:PLT-002": 35,
+    "PR:PAN-204": 12,
+    "PR:PAN-210": 45,
+    "PR:YOG-301": 41,
+    "PR:YOG-310": 44,
+    "PR:LEC-120": 34,
+    "PR:HUE-030": 26,
+    "PR:TOM-050": 14,
+    "PR:LEC-205": 28,
+    "PR:MAN-410": 37,
+    "PR:PLA-420": 17,
+    "PR:ARR-600": 51,
+    "PR:FID-610": 55,
+    "PR:ACE-700": 0,
+    "PR:CAF-800": 48,
+    "PR:VIN-330": 51,
+    "PR:CER-340": 10,
+    "PR:MNI-900": 44,
+    "PR:ALM-910": 27,
+    "PR:QUE-500": 21,
+    "PR:JAM-510": 17,
+    "PR:AGU-100": 9,
+    "PR:DET-950": 13,
+    "VI:PLT-001": 48,
+    "VI:PLT-002": 21,
+    "VI:PAN-204": 6,
+    "VI:PAN-210": 5,
+    "VI:YOG-301": 24,
+    "VI:YOG-310": 6,
+    "VI:LEC-120": 22,
+    "VI:HUE-030": 54,
+    "VI:TOM-050": 22,
+    "VI:LEC-205": 38,
+    "VI:MAN-410": 16,
+    "VI:PLA-420": 51,
+    "VI:ARR-600": 2,
+    "VI:FID-610": 46,
+    "VI:ACE-700": 29,
+    "VI:CAF-800": 34,
+    "VI:VIN-330": 7,
+    "VI:CER-340": 59,
+    "VI:MNI-900": 24,
+    "VI:ALM-910": 5,
+    "VI:QUE-500": 35,
+    "VI:JAM-510": 18,
+    "VI:AGU-100": 53,
+    "VI:DET-950": 40
+  },
+  "clientes": [
+    {
+      "id": "c42",
+      "nombre": "Camila",
+      "tienda": "LC",
+      "canal": "app",
+      "edad_verificada": false,
+      "cupo_credito": 120000
+    },
+    {
+      "id": "c-118",
+      "nombre": "Restaurante Don Lucho",
+      "tienda": "LC",
+      "canal": "web",
+      "edad_verificada": true,
+      "cupo_credito": 800000
+    },
+    {
+      "id": "c77",
+      "nombre": "Tomás",
+      "tienda": "PR",
+      "canal": "whatsapp",
+      "edad_verificada": true,
+      "cupo_credito": 0
+    }
+  ],
+  "pedidos": [
+    {
+      "pedido_id": "P-8700",
+      "cliente_id": "c-118",
+      "fecha_offset": -1,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 6,
+          "precio": 3990
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 8,
+          "precio": 1990
+        },
+        {
+          "sku": "LEC-205",
+          "cantidad": 5,
+          "precio": 1290
+        },
+        {
+          "sku": "ACE-700",
+          "cantidad": 2,
+          "precio": 6490
+        },
+        {
+          "sku": "ARR-600",
+          "cantidad": 6,
+          "precio": 1590
+        },
+        {
+          "sku": "FID-610",
+          "cantidad": 8,
+          "precio": 990
+        },
+        {
+          "sku": "QUE-500",
+          "cantidad": 4,
+          "precio": 3490
+        },
+        {
+          "sku": "JAM-510",
+          "cantidad": 4,
+          "precio": 2990
+        },
+        {
+          "sku": "HUE-030",
+          "cantidad": 3,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-210",
+          "cantidad": 7,
+          "precio": 2390
+        },
+        {
+          "sku": "LEC-120",
+          "cantidad": 10,
+          "precio": 1090
+        },
+        {
+          "sku": "AGU-100",
+          "cantidad": 9,
+          "precio": 890
+        }
+      ],
+      "estado": "entregado",
+      "total": 150280
+    },
+    {
+      "pedido_id": "P-8713",
+      "cliente_id": "c-118",
+      "fecha_offset": -8,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 6,
+          "precio": 3990
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 8,
+          "precio": 1990
+        },
+        {
+          "sku": "LEC-205",
+          "cantidad": 6,
+          "precio": 1290
+        },
+        {
+          "sku": "ACE-700",
+          "cantidad": 3,
+          "precio": 6490
+        },
+        {
+          "sku": "ARR-600",
+          "cantidad": 6,
+          "precio": 1590
+        },
+        {
+          "sku": "FID-610",
+          "cantidad": 8,
+          "precio": 990
+        },
+        {
+          "sku": "QUE-500",
+          "cantidad": 4,
+          "precio": 3490
+        },
+        {
+          "sku": "JAM-510",
+          "cantidad": 4,
+          "precio": 2990
+        },
+        {
+          "sku": "HUE-030",
+          "cantidad": 4,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-210",
+          "cantidad": 6,
+          "precio": 2390
+        },
+        {
+          "sku": "LEC-120",
+          "cantidad": 11,
+          "precio": 1090
+        },
+        {
+          "sku": "AGU-100",
+          "cantidad": 9,
+          "precio": 890
+        },
+        {
+          "sku": "MAN-410",
+          "cantidad": 4,
+          "precio": 1890
+        }
+      ],
+      "estado": "entregado",
+      "total": 168310
+    },
+    {
+      "pedido_id": "P-8726",
+      "cliente_id": "c-118",
+      "fecha_offset": -15,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 6,
+          "precio": 3990
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 8,
+          "precio": 1990
+        },
+        {
+          "sku": "LEC-205",
+          "cantidad": 5,
+          "precio": 1290
+        },
+        {
+          "sku": "ACE-700",
+          "cantidad": 3,
+          "precio": 6490
+        },
+        {
+          "sku": "ARR-600",
+          "cantidad": 5,
+          "precio": 1590
+        },
+        {
+          "sku": "FID-610",
+          "cantidad": 8,
+          "precio": 990
+        },
+        {
+          "sku": "QUE-500",
+          "cantidad": 6,
+          "precio": 3490
+        },
+        {
+          "sku": "JAM-510",
+          "cantidad": 4,
+          "precio": 2990
+        },
+        {
+          "sku": "HUE-030",
+          "cantidad": 3,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-210",
+          "cantidad": 6,
+          "precio": 2390
+        },
+        {
+          "sku": "LEC-120",
+          "cantidad": 10,
+          "precio": 1090
+        },
+        {
+          "sku": "AGU-100",
+          "cantidad": 8,
+          "precio": 890
+        },
+        {
+          "sku": "MAN-410",
+          "cantidad": 5,
+          "precio": 1890
+        },
+        {
+          "sku": "CAF-800",
+          "cantidad": 3,
+          "precio": 5990
+        }
+      ],
+      "estado": "entregado",
+      "total": 186300
+    },
+    {
+      "pedido_id": "P-8739",
+      "cliente_id": "c-118",
+      "fecha_offset": -22,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 7,
+          "precio": 3990
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 8,
+          "precio": 1990
+        },
+        {
+          "sku": "LEC-205",
+          "cantidad": 6,
+          "precio": 1290
+        },
+        {
+          "sku": "ACE-700",
+          "cantidad": 3,
+          "precio": 6490
+        },
+        {
+          "sku": "ARR-600",
+          "cantidad": 6,
+          "precio": 1590
+        },
+        {
+          "sku": "FID-610",
+          "cantidad": 8,
+          "precio": 990
+        },
+        {
+          "sku": "QUE-500",
+          "cantidad": 6,
+          "precio": 3490
+        },
+        {
+          "sku": "JAM-510",
+          "cantidad": 5,
+          "precio": 2990
+        },
+        {
+          "sku": "HUE-030",
+          "cantidad": 4,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-210",
+          "cantidad": 6,
+          "precio": 2390
+        },
+        {
+          "sku": "LEC-120",
+          "cantidad": 10,
+          "precio": 1090
+        },
+        {
+          "sku": "AGU-100",
+          "cantidad": 9,
+          "precio": 890
+        }
+      ],
+      "estado": "entregado",
+      "total": 173620
+    },
+    {
+      "pedido_id": "P-8752",
+      "cliente_id": "c-118",
+      "fecha_offset": -29,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 5,
+          "precio": 3990
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 7,
+          "precio": 1990
+        },
+        {
+          "sku": "LEC-205",
+          "cantidad": 5,
+          "precio": 1290
+        },
+        {
+          "sku": "ACE-700",
+          "cantidad": 3,
+          "precio": 6490
+        },
+        {
+          "sku": "ARR-600",
+          "cantidad": 6,
+          "precio": 1590
+        },
+        {
+          "sku": "FID-610",
+          "cantidad": 9,
+          "precio": 990
+        },
+        {
+          "sku": "QUE-500",
+          "cantidad": 4,
+          "precio": 3490
+        },
+        {
+          "sku": "JAM-510",
+          "cantidad": 5,
+          "precio": 2990
+        },
+        {
+          "sku": "HUE-030",
+          "cantidad": 5,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-210",
+          "cantidad": 7,
+          "precio": 2390
+        },
+        {
+          "sku": "LEC-120",
+          "cantidad": 10,
+          "precio": 1090
+        },
+        {
+          "sku": "AGU-100",
+          "cantidad": 7,
+          "precio": 890
+        },
+        {
+          "sku": "MAN-410",
+          "cantidad": 3,
+          "precio": 1890
+        }
+      ],
+      "estado": "entregado",
+      "total": 166640
+    },
+    {
+      "pedido_id": "P-8765",
+      "cliente_id": "c-118",
+      "fecha_offset": -36,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 6,
+          "precio": 3990
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 8,
+          "precio": 1990
+        },
+        {
+          "sku": "LEC-205",
+          "cantidad": 5,
+          "precio": 1290
+        },
+        {
+          "sku": "ACE-700",
+          "cantidad": 3,
+          "precio": 6490
+        },
+        {
+          "sku": "ARR-600",
+          "cantidad": 7,
+          "precio": 1590
+        },
+        {
+          "sku": "FID-610",
+          "cantidad": 8,
+          "precio": 990
+        },
+        {
+          "sku": "QUE-500",
+          "cantidad": 6,
+          "precio": 3490
+        },
+        {
+          "sku": "JAM-510",
+          "cantidad": 3,
+          "precio": 2990
+        },
+        {
+          "sku": "HUE-030",
+          "cantidad": 4,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-210",
+          "cantidad": 6,
+          "precio": 2390
+        },
+        {
+          "sku": "LEC-120",
+          "cantidad": 9,
+          "precio": 1090
+        },
+        {
+          "sku": "AGU-100",
+          "cantidad": 8,
+          "precio": 890
+        },
+        {
+          "sku": "MAN-410",
+          "cantidad": 4,
+          "precio": 1890
+        },
+        {
+          "sku": "CAF-800",
+          "cantidad": 2,
+          "precio": 5990
+        }
+      ],
+      "estado": "entregado",
+      "total": 181510
+    },
+    {
+      "pedido_id": "P-8778",
+      "cliente_id": "c-118",
+      "fecha_offset": -43,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 6,
+          "precio": 3990
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 8,
+          "precio": 1990
+        },
+        {
+          "sku": "LEC-205",
+          "cantidad": 5,
+          "precio": 1290
+        },
+        {
+          "sku": "ACE-700",
+          "cantidad": 3,
+          "precio": 6490
+        },
+        {
+          "sku": "ARR-600",
+          "cantidad": 7,
+          "precio": 1590
+        },
+        {
+          "sku": "FID-610",
+          "cantidad": 7,
+          "precio": 990
+        },
+        {
+          "sku": "QUE-500",
+          "cantidad": 4,
+          "precio": 3490
+        },
+        {
+          "sku": "JAM-510",
+          "cantidad": 4,
+          "precio": 2990
+        },
+        {
+          "sku": "HUE-030",
+          "cantidad": 4,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-210",
+          "cantidad": 6,
+          "precio": 2390
+        },
+        {
+          "sku": "LEC-120",
+          "cantidad": 9,
+          "precio": 1090
+        },
+        {
+          "sku": "AGU-100",
+          "cantidad": 8,
+          "precio": 890
+        }
+      ],
+      "estado": "entregado",
+      "total": 156990
+    },
+    {
+      "pedido_id": "P-8791",
+      "cliente_id": "c-118",
+      "fecha_offset": -50,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 5,
+          "precio": 3990
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 7,
+          "precio": 1990
+        },
+        {
+          "sku": "LEC-205",
+          "cantidad": 7,
+          "precio": 1290
+        },
+        {
+          "sku": "ACE-700",
+          "cantidad": 2,
+          "precio": 6490
+        },
+        {
+          "sku": "ARR-600",
+          "cantidad": 6,
+          "precio": 1590
+        },
+        {
+          "sku": "FID-610",
+          "cantidad": 8,
+          "precio": 990
+        },
+        {
+          "sku": "QUE-500",
+          "cantidad": 6,
+          "precio": 3490
+        },
+        {
+          "sku": "JAM-510",
+          "cantidad": 4,
+          "precio": 2990
+        },
+        {
+          "sku": "HUE-030",
+          "cantidad": 4,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-210",
+          "cantidad": 7,
+          "precio": 2390
+        },
+        {
+          "sku": "LEC-120",
+          "cantidad": 10,
+          "precio": 1090
+        },
+        {
+          "sku": "AGU-100",
+          "cantidad": 8,
+          "precio": 890
+        },
+        {
+          "sku": "MAN-410",
+          "cantidad": 4,
+          "precio": 1890
+        }
+      ],
+      "estado": "entregado",
+      "total": 164520
+    },
+    {
+      "pedido_id": "P-9001",
+      "cliente_id": "c42",
+      "fecha_offset": -11,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 2,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-204",
+          "cantidad": 1,
+          "precio": 2190
+        },
+        {
+          "sku": "YOG-301",
+          "cantidad": 6,
+          "precio": 1890
+        }
+      ],
+      "estado": "entregado",
+      "total": 21510
+    },
+    {
+      "pedido_id": "P-9055",
+      "cliente_id": "c42",
+      "fecha_offset": -4,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 2,
+          "precio": 3990
+        },
+        {
+          "sku": "PAN-204",
+          "cantidad": 1,
+          "precio": 2190
+        },
+        {
+          "sku": "YOG-310",
+          "cantidad": 6,
+          "precio": 2790
+        }
+      ],
+      "estado": "entregado",
+      "total": 26910
+    },
+    {
+      "pedido_id": "8812",
+      "cliente_id": "c42",
+      "fecha_offset": -2,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "LEC-120",
+          "cantidad": 3,
+          "precio": 1090
+        },
+        {
+          "sku": "HUE-030",
+          "cantidad": 3,
+          "precio": 3990
+        },
+        {
+          "sku": "MAN-410",
+          "cantidad": 3,
+          "precio": 1890
+        },
+        {
+          "sku": "PLA-420",
+          "cantidad": 2,
+          "precio": 1290
+        }
+      ],
+      "estado": "entregado",
+      "total": 23490
+    },
+    {
+      "pedido_id": "P-9120",
+      "cliente_id": "c42",
+      "fecha_offset": 1,
+      "tienda": "LC",
+      "items": [
+        {
+          "sku": "PLT-001",
+          "cantidad": 1,
+          "precio": 3990
+        },
+        {
+          "sku": "LEC-120",
+          "cantidad": 2,
+          "precio": 1090
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 1,
+          "precio": 1990
+        },
+        {
+          "sku": "YOG-310",
+          "cantidad": 2,
+          "precio": 2790
+        }
+      ],
+      "estado": "confirmado",
+      "total": 13740
+    },
+    {
+      "pedido_id": "P-7701",
+      "cliente_id": "c77",
+      "fecha_offset": 2,
+      "tienda": "PR",
+      "items": [
+        {
+          "sku": "AGU-100",
+          "cantidad": 6,
+          "precio": 890
+        },
+        {
+          "sku": "FID-610",
+          "cantidad": 2,
+          "precio": 990
+        },
+        {
+          "sku": "TOM-050",
+          "cantidad": 1,
+          "precio": 1990
+        }
+      ],
+      "estado": "confirmado",
+      "total": 9310
+    }
+  ],
+  "cobros": [
+    {
+      "cobro_id": "k001",
+      "pedido_id": "P-8700",
+      "monto": 150280,
+      "fecha_offset": -1,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "k002",
+      "pedido_id": "P-8713",
+      "monto": 168310,
+      "fecha_offset": -8,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "k003",
+      "pedido_id": "P-8726",
+      "monto": 186300,
+      "fecha_offset": -15,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "k004",
+      "pedido_id": "P-8739",
+      "monto": 173620,
+      "fecha_offset": -22,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "k005",
+      "pedido_id": "P-8752",
+      "monto": 166640,
+      "fecha_offset": -29,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "k006",
+      "pedido_id": "P-8765",
+      "monto": 181510,
+      "fecha_offset": -36,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "k007",
+      "pedido_id": "P-8778",
+      "monto": 156990,
+      "fecha_offset": -43,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "k008",
+      "pedido_id": "P-8791",
+      "monto": 164520,
+      "fecha_offset": -50,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "k009",
+      "pedido_id": "P-9001",
+      "monto": 21510,
+      "fecha_offset": -11,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "k010",
+      "pedido_id": "P-9055",
+      "monto": 26910,
+      "fecha_offset": -4,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "c1",
+      "pedido_id": "8812",
+      "monto": 23490,
+      "fecha_offset": -2,
+      "estado": "aprobado"
+    },
+    {
+      "cobro_id": "c2",
+      "pedido_id": "8812",
+      "monto": 23490,
+      "fecha_offset": -2,
+      "estado": "duplicado"
+    }
+  ],
+  "memoria_inicial": {
+    "c42": {
+      "perfil": {
+        "tienda": "LC",
+        "dia_compra": "viernes",
+        "restriccion": "sin maní",
+        "pan": "integral"
+      },
+      "episodios": [
+        {
+          "fecha_offset": -11,
+          "resumen": "cambió yogur natural por griego"
+        },
+        {
+          "fecha_offset": -4,
+          "resumen": "pidió 2 kg palta, pan integral, 6 yogures; entregado ok"
+        }
+      ]
+    },
+    "c-118": {
+      "perfil": {
+        "tienda": "LC",
+        "tipo_cliente": "restaurante",
+        "dia_compra": "lunes"
+      },
+      "episodios": []
+    },
+    "c77": {
+      "perfil": {
+        "tienda": "PR",
+        "canal": "whatsapp"
+      },
+      "episodios": []
+    }
+  },
+  "politicas": [
+    {
+      "id": "devoluciones",
+      "titulo": "Devoluciones de productos",
+      "texto": "Puedes devolver productos dentro de 10 días corridos desde la entrega, presentando la boleta. Los perecibles (frutas, verduras, lácteos, carnes) solo se aceptan si llegaron en mal estado y se reportan dentro de 48 horas con una foto."
+    },
+    {
+      "id": "reembolsos",
+      "titulo": "Reembolsos",
+      "texto": "Los reembolsos se procesan en 3 a 5 días hábiles y se abonan siempre al medio de pago original. Los cobros duplicados se reembolsan completos tras la confirmación del cliente. Nunca se reembolsa en efectivo ni a otra cuenta."
+    },
+    {
+      "id": "alcohol",
+      "titulo": "Venta de alcohol",
+      "texto": "La venta de bebidas alcohólicas es solo para mayores de 18 años con la edad verificada en la app (Perfil → Verificación, con cédula) y en horario de 09:00 a 21:00. Los pedidos con alcohol fuera de horario se programan para el día siguiente."
+    },
+    {
+      "id": "garantia",
+      "titulo": "Garantía de electrodomésticos",
+      "texto": "Los electrodomésticos tienen 6 meses de garantía legal desde la compra. Durante los primeros 3 meses puedes elegir cambio, reparación o devolución del dinero. Debes presentar la boleta y el producto con sus accesorios."
+    },
+    {
+      "id": "cambios_pedido",
+      "titulo": "Cambios de pedido",
+      "texto": "Puedes cambiar productos, cantidades, dirección u horario de un pedido hasta 2 horas antes del despacho, desde la app o por este canal. Después de ese plazo el pedido ya está en preparación y los cambios no se garantizan."
+    },
+    {
+      "id": "datos",
+      "titulo": "Protección de datos personales",
+      "texto": "Tus datos se usan solo para gestionar tus compras. Puedes ejercer el derecho al olvido desde la app (Perfil → Privacidad → Borrar mis datos) o pidiéndolo a un ejecutivo; el borrado se completa en un máximo de 10 días hábiles. Nunca compartimos datos con terceros."
+    }
+  ]
+}
